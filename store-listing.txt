@@ -1,0 +1,33 @@
+PLAY STORE LISTING TEXT
+
+App name (max 30 characters)
+World GK Quiz
+
+Short description (max 80 characters)
+Fast general knowledge quiz: geography, science, history, sports and more.
+
+Full description (max 4000 characters)
+Test what you know about the world in quick 10-question rounds.
+
+World GK Quiz mixes questions from geography, science, history, sports, culture and technology, with a few on Pakistan. Every round is different, because questions are picked at random from a growing pool.
+
+HOW IT WORKS
+- 10 questions per round, 20 seconds for each
+- Answer fast to earn bonus points
+- Build a streak by getting answers right in a row
+- See the correct answer and a short fact after every question
+- Review the questions you missed at the end of the round
+- Your best score is saved on your device
+- Works offline, with no sign-up needed
+
+No ads. No account. No tracking.
+
+Play a round, beat your best score, and share your result with friends.
+
+Category: Trivia (Games) or Education
+Content rating: fill the questionnaire in Play Console; the app has no violence, ads or user-generated content
+Contact email: [your email]
+Privacy policy URL: https://YOUR-SITE/privacy.html  (after you host the folder)
+
+Screenshots needed: at least 2 phone screenshots. Open the hosted app on your phone, play a round and take screenshots of the start screen, a question, and the result screen.
+Feature graphic: 1024 x 500 px image (can be made in Canva).
